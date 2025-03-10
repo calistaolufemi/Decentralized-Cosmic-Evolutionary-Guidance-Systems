@@ -11,3 +11,9 @@ a
 1contracts/civilization-advancement-milestone.clar,4/a/4aa8869b8428b49ac9b20bcec3c0cf768c97151a
 `
 0tests/civilization-advancement-milestone.test.ts,2/c/2c6b6155244c63aff9a55a6f823801286c3eee94
+a
+1contracts/evolutionary-bottleneck-prevention.clar,3/0/30e643c1d828ea6bde8381a8377feab2942fb0d9
+`
+0tests/galactic-biodiversity-preservation.test.ts,9/6/9626c322ee1cecb7a9a4db61f41393a2f91052e1
+`
+0tests/evolutionary-bottleneck-prevention.test.ts,f/a/fa23ab614c2c6d3b9c0fb6355ee235402020ff42
